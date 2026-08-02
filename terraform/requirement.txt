@@ -1,0 +1,5 @@
+dbt-core
+snowflake-connector-python
+boto3
+pandas
+pyspark
